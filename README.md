@@ -1,5 +1,5 @@
 [<img src="./image/README/1694220443343.png" width="250" />](./image/README/1694220443343.png)
-[<img src="./Classical Mechanics/N-Body.gif" width="333" />](./Classical Mechanics/N-Body.gi)
+[<img src="./Classical Mechanics/N-Body.gif" width="333" />](./Classical Mechanics/N-Body.gif)
 
 # Computational Physics with Python using Jupyter Notebooks ⚛️ <img src="https://i0.wp.com/tinkercademy.com/wp-content/uploads/2018/04/python-icon.png?ssl=1" width=20/> <img src="https://docs.poppy-project.org/fr/img/logo/jupyter.png" width=20>
 
